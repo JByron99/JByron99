@@ -1,6 +1,4 @@
-<!--- figure out something decent to put here cause god --->
-
 - Hi, I’m @JByron99
 - I’m interested in practicing professional software standards in coding
-- I’m currently studying Computer Science at the Pennsylvania State University
+- I graduated from The Pennsylvania State University with a B.S. in Computer Science
 - You can reach me via sbyron@protonmail.com
