@@ -1,4 +1,2 @@
 - Hi, I’m @JByron99
-- I’m interested in practicing professional software standards in coding
-- I graduated from The Pennsylvania State University with a B.S. in Computer Science
 - You can reach me via sbyron@protonmail.com
