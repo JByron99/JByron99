@@ -1,2 +1,2 @@
 - Hi, I’m @JByron99
-- You can reach me via sbyron@protonmail.com
+- You can reach me via sbyron@proton.me
